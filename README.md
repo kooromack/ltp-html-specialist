@@ -1,1 +1,1 @@
-# ltp-html-specialist
+# Celestin's HTML5 Specialist Repository
